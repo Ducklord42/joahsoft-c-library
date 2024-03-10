@@ -18,7 +18,7 @@
 #define BG_GREEN "\x1B[42m"
 #define BG_YELLOW "\x1B[43m"
 #define BG_BLUE "\x1B[44m"
-#define BG_WHITE "\x1B[47,"
+#define BG_WHITE "\x1B[47m"
 
 
 void tc_echo_off();
